@@ -2,4 +2,4 @@
 testing first repository
 
 
-Here are additions from the new branch.
+7/16 ... new additions to file attempting to commit via command line.
